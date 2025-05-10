@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Philip-Juhlin
 - 👀 Working in the agricultural sector for a private company
-- 🌱 currently working with and learning C#
+- 🌱 currently working with and learning C#, Python
 
 <!---
 Philip-Juhlin/Philip-Juhlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
